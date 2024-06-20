@@ -1,22 +1,22 @@
-[//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can )
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can 
 
-[//]: # (put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
+put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-[//]: # ()
-[//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing )
 
-[//]: # (`profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render )
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing 
 
-[//]: # (your [publications page]&#40;/al-folio/publications/&#41; automatically.)
+`profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render 
 
-[//]: # ()
-[//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; )
+your [publications page](/al-folio/publications/) automatically.
 
-[//]: # (and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all )
 
-[//]: # (of them.)
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) 
 
-[//]: # ( )
+and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all 
+
+of them.
+
+ 
 
 Hi!! Welcome to my website!!
 
