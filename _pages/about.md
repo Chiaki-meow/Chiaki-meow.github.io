@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.se.sjtu.edu.cn'>SJTU-SE</a>. 800 Dongchuan Road. chiaki_meow@sjtu.edu.cn. 
+subtitle: <a href='www.se.sjtu.edu.cn'>SJTU-SE</a>. 800 Dongchuan Road. chiaki_meow@sjtu.edu.cn. 
 
 profile:
   align: right
