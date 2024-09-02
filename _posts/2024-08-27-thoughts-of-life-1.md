@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 边往上走边看星星
-date: 2024-07-05 00:32:13
+date: 2024-08-25 13:00:00
 description: 每天都有新感悟
-tags: Daily life
+tags: DailyLife 
 categories: Life
 ---
 
