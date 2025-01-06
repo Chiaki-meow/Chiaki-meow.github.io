@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Autumn of Sights # the website title (if blank, full name will be used instead)
 first_name: Jiawen
 middle_name:
 last_name: Cheng
@@ -300,8 +300,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cheng]
+  first_name: [Jiawen]
 
   style: apa
   locale: en
