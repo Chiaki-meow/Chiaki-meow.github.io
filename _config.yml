@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Autumn of Sights # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Jiawen
 middle_name:
 last_name: Cheng
@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chiaki-meow.github.io # the base hostname & protocol for your site
@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: B1og for Study # blog_name will be displayed in your blog page
-blog_description: a simple place to store my knowledge and experience.
+blog_name: 秋绪集 # blog_name will be displayed in your blog page
+blog_description: 主要搭载了学习笔记、个人总结、文娱内容的笔记！
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
