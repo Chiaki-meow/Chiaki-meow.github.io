@@ -33,4 +33,4 @@ RenderTexture rt = new RenderTexture(width, height, depth, RenderTextureFormat.A
 参考资料：\
 [1]: https://qiita.com/120byte/items/44df34fd30057f9642b4 \
 [2]: https://discussions.unity.com/t/writting-to-rendertexture-comes-out-darker/637617 \
-[3]:https://blog.csdn.net/lrh3025/article/details/102723090
+[3]: https://blog.csdn.net/lrh3025/article/details/102723090 
