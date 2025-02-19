@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2025新年祈愿
-date: 2025-02-19 13:32:13
+date: 2025-02-18 13:32:13
 description: 新的一年，对这个网站做一个规划，对自己的未来许一个愿！
 tags: DailyLife
 categories: Life

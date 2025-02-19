@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: SJTU-SE. 800 Dongchuan Road. chiaki_meow@sjtu.edu.cn. 
+subtitle:  (*^▽^*)
 
 profile:
   align: right
   image: /selfish/202405_hawaii.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Software Engineering</p>
-    <p>Shanghai Jiao Tong University</p>
-    <p>Shanghai, China</p>
+  more_info: 
+    <p>程佳雯</p>
+    <p>2024于夏威夷！</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
