@@ -3,8 +3,8 @@ layout: post
 title: 写在所有帖子之前
 date: 2024-08-25 13:00:00
 description: 每天都有新感悟
-tags: DailyLife 
-categories: Life
+tags: thoughts 
+categories: daily life
 ---
 
 我在最近突然发现我是一个急功近利的人。发现这点的原因是，我一直在尝试走“捷径”，比如问别人有没有什么好的idea，有没有什么我能帮的上忙的内容；或者是喜欢去草草略过很多网上的教程，打开了很多网站，看到了解决方案就结束了，也不会去非常仔细的刨根问底。\
