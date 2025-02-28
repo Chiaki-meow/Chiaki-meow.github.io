@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 配置conda环境时报错Invoke-Expression的可能原因
+title: 配置conda环境时报错Invoke-Expression的解决办法
 date: 2025-02-28 18:00:00
-description: 
+description: 配置conda环境时报错Invoke-Expression的可能问题及解决办法
 tags: others
 categories: coding
 ---
