@@ -3,7 +3,7 @@ layout: post
 title: Unity中RenderTexture的sRGB问题
 date: 2024-11-13 13:32:13
 description: 如果使用Unity的RenderTexture来显示某个相机的内容，会发现相机的颜色和RenderTexture的颜色不一致。这是因为RenderTexture默认不打开sRGB，导致其内部存储的颜色其实是线性的。
-tags: game engine, graphics
+tags: game-engine, graphics
 categories: coding
 ---
 

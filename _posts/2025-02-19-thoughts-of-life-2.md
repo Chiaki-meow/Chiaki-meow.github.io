@@ -4,7 +4,7 @@ title: 2025新年祈愿
 date: 2025-02-18 13:32:13
 description: 新的一年，对这个网站做一个规划，对自己的未来许一个愿！
 tags: thoughts
-categories: daily life
+categories: life
 ---
 
 去年匆匆地参考模版搭建了这个个人网站，但是发现持续更新是一件很艰难的事情。我自己总结下来的话可能有如下几个原因：

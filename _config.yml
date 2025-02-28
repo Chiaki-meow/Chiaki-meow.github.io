@@ -292,8 +292,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["thoughts", "travels", "graphics", "game engine", "others"] # these tags will be displayed on the front page of your blog
-display_categories: ["weekly sync", "daily life", "coding"] # these categories will be displayed on the front page of your blog
+display_tags: ["thoughts", "travels", "graphics", "game-engine", "others"] # these tags will be displayed on the front page of your blog
+display_categories: ["weekly-sync", "life", "coding"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
