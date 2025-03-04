@@ -6,6 +6,7 @@ description: 配置conda环境时报错Invoke-Expression的可能问题及解决
 tags: others
 categories: coding
 ---
+
 ### 问题
 之前在没配过环境的电脑上新安装了anaconda，发现自从安装之后就持续报下面的第一条错误，也就是以Invoke-Expression为开头的错误。
 
