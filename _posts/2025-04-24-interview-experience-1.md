@@ -120,7 +120,7 @@ vec3 FresnelSchlick(float cosTheta, vec3 F0) {
 
 因此，有人提出了gbuffer来解决这个问题：延迟渲染会分为geometry pass和lighting pass的部分，geometry pass会在vertex shader里给gbuffer赋值，其中可以包含法线、深度、漫反射强度、镜面反射强度等等；lighting pass会在fragment shader里进行执行。lighting pass会读取gbuffer所存储的信息，在屏幕的每一个像素点上计算光照的贡献度。
 
-[https://learnopengl-cn.readthedocs.io/zh/latest/05 Advanced Lighting/08 Deferred Shading/](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)
+[learnOpenGL 延迟渲染发](https://learnopengl-cn.readthedocs.io/zh/latest/05%20Advanced%20Lighting/08%20Deferred%20Shading/)
 
 ### WEBGL是怎么渲染在页面上的：
 
