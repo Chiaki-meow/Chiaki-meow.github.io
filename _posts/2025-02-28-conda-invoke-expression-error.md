@@ -14,7 +14,10 @@ categories: coding
 - 在powershell里打conda activate base时，报错Invoke-Expression : 无法绑定参数“Command";
 - 在正确配置conda的环境及执行过conda init后，仍然报错：CondaError: Run 'conda init' before 'conda activate'
 
-![](/assets/img/post/25-02-28-conda-invoke/error.png)
+
+<p align="center">
+  <img src="/assets/img/post/25-02-28-conda-invoke/error.png" alt="问题截图" width="60%">
+</p>
 
 为了解决这个问题，我尝试过：
  - 修改执行策略(Set-ExecutionPolicy) -> 改为Remote Signed 
@@ -34,7 +37,11 @@ categories: coding
 echo $env:PATH 
 ```
 这里大家可以把环境变量全都copy到文本文件里，将分号;替换为换行符来更好的检查:)
-![](/assets/img/post/25-02-28-conda-invoke/problem.png)
+
+<p align="center">
+  <img src="/assets/img/post/25-02-28-conda-invoke/problem.png" alt="问题截图" width="60%">
+</p>
+
 在检查的过程中，发现环境变量里有一个神秘的双引号，而我又继续在系统的环境变量里（高级系统设置）确认了一下，并没有相应的内容。
 
 而我将对应的环境变量删除并重新输入就完全解决了这个问题！ 因此，很可能是对应的环境变量里有一个隐形字符，随着某个软件的安装一起被装上来了。
@@ -43,4 +50,6 @@ echo $env:PATH
 下次有类似的问题，第一时间检查环境变量！如果环境变量没有问题，可以在powershell里打印一下检查，可能会有不可见字符的影响。
 
 ### 参考链接
-[1]: https://www.zhihu.com/question/640937794/answer/3376815197
+
+[1]: Anaconda prompt powershell出问题了，一打开就这样，该怎么办？
+https://www.zhihu.com/question/640937794/answer/3376815197
