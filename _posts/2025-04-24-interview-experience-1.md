@@ -2,7 +2,7 @@
 layout: post
 title: 图形开发相关面经分享整理1.0
 date: 2025-04-24 20:30:00
-description: 
+description: 整理2025年到四月份的所有C++/图形学涉及到的知识！可能有一些内容还没有完善，但是也是很值得学习的内容:>
 tags: graphics
 categories: coding
 ---
