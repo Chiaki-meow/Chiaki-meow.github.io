@@ -628,3 +628,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+timezone: Asia/Shanghai # set your timezone to display the correct time in the resume
